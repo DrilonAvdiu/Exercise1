@@ -4,7 +4,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello ASE2017 - How are you? :)");
+		System.out.println("Hello ASE2017 - how are you now?)");
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("What's your name?");
 		String userName=scanner.nextLine();
